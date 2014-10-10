@@ -1,0 +1,20 @@
+{
+    "title": "iPlastic",
+    "name": "iPlastic",
+    "description": "iPlastic by Jeroen van der Ham, converted from TextMate theme (iPlastic.tmTheme)",
+    "version": "1.0.0",
+    "author": "larz0 (https://github.com/larz0)",
+    "homepage": "https://github.com/Brackets-Themes/IPlastic",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/IPlastic.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "iplastic.css",
+        "dark": false
+    }
+}
